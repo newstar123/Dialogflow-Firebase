@@ -1,0 +1,59 @@
+[
+  {
+    "responseId": "98a7956a-486d-4505-8c97-f5a2e9adcb92",
+    "queryResult": {
+      "queryText": "Bohdan Rozov",
+      "parameters": { "last-name": "", "given-name": "Bohdan" },
+      "allRequiredParamsPresent": true,
+      "fulfillmentText": "😀Yaaaaaas (Bohdan) think of this as a coffee chat with a friend...It's a way for us to get to know you better and what you say stays private. Can I start by asking your age? 🎈###18-25###25-30###30-45",
+      "fulfillmentMessages": [
+        {
+          "text": {
+            "text": [
+              "😀Yaaaaaas (Bohdan)\n\nthink of this as a coffee chat with a friend...It's a way for us to get to know you better and what you say stays private. \n\nCan I start by asking your age?  🎈###18-25###25-30###30-45"
+            ]
+          }
+        },
+        { "text": { "text": [""] } }
+      ],
+      "outputContexts": [
+        {
+          "name": "projects/jiiggl-c143c/agent/sessions/d8fca777-abc6-b6ad-db48-4375e4d6c1fc/contexts/coffestart",
+          "lifespanCount": 5,
+          "parameters": {
+            "last-name.original": "",
+            "given-name.original": "Bohdan",
+            "last-name": "",
+            "given-name": "Bohdan"
+          }
+        },
+        {
+          "name": "projects/jiiggl-c143c/agent/sessions/d8fca777-abc6-b6ad-db48-4375e4d6c1fc/contexts/1_chat_start-followup",
+          "lifespanCount": 2,
+          "parameters": {
+            "given-name.original": "Bohdan",
+            "last-name": "",
+            "given-name": "Bohdan",
+            "last-name.original": ""
+          }
+        },
+        {
+          "name": "projects/jiiggl-c143c/agent/sessions/d8fca777-abc6-b6ad-db48-4375e4d6c1fc/contexts/awaiting_situation_explore",
+          "lifespanCount": 5,
+          "parameters": {
+            "given-name.original": "Bohdan",
+            "last-name": "",
+            "given-name": "Bohdan",
+            "last-name.original": ""
+          }
+        }
+      ],
+      "intent": {
+        "name": "projects/jiiggl-c143c/agent/intents/60cad8d9-a969-41c5-9a85-d693f9e87169",
+        "displayName": "Coffee-Start"
+      },
+      "intentDetectionConfidence": 1,
+      "languageCode": "en"
+    }
+  }
+]

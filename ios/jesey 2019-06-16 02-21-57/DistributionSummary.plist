@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>jesey.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2D1EBB2E957C6C251315E10B7115E477284EBAEF</string>
+				<key>dateExpires</key>
+				<string>6/15/20</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YKS49JAA4V.co.jesey.app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YKS49JAA4V</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>YKS49JAA4V.co.jesey.app</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>jesey.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0bf5b2ad-2e03-459d-8a17-55a9849fefc4</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: co.jesey.app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YKS49JAA4V</string>
+				<key>name</key>
+				<string>THE WELLNESS COLLECTIVE LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

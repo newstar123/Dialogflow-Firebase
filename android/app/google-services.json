@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "906444529382",
+    "firebase_url": "https://jesey-e783d.firebaseio.com",
+    "project_id": "jesey-e783d",
+    "storage_bucket": "jesey-e783d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906444529382:android:3119b41ca292fcf9",
+        "android_client_info": {
+          "package_name": "co.jesey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906444529382-tbuptfl1d5n6pa98alvott1g80ud3ndv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jesey",
+            "certificate_hash": "09fe93125a0696c9e7f10e1c26eae7728438df52"
+          }
+        },
+        {
+          "client_id": "906444529382-26b451ihp1h9ks6ql5b5dogrbmgsg9vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jesey",
+            "certificate_hash": "3beb716dd8e941a1ebc3169ae0f9e83047d7d498"
+          }
+        },
+        {
+          "client_id": "906444529382-m3nh69d6shcqqn1ppa3aekk9gar60h2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0v6nvIdv1LEChWCZOAPC0LU1rzTdGc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906444529382-m3nh69d6shcqqn1ppa3aekk9gar60h2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
